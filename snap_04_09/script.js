@@ -1,3 +1,6 @@
-let (3)(3) = function(num) {
-	return num * 4;
+function addNumbers($parameter1, parameter2) {
+
+	$answer = parameter1 + parameter2;
+	return=$answer
+	comsole.log($answer)
 }
