@@ -6,10 +6,9 @@
 	</head>
 	<body>
 		<h1>Why is he using our site:</h1>
-		<p>As a new user, I want to upload, add and edit images.</p>
-
-		<a href="persona.php">page 1</a>
-		<a href="use-case.php">page 3</a>
+		<p>
+			As a new user, I want to upload images.
+		</p>
 
 	</body>
 </html>
