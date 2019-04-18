@@ -1,7 +1,7 @@
 drop table if exists task;
 
-create table Task (
-	taskId BINARY(20) not null,
+create table task (
+   taskId BINARY(20) not null,
    taskTitle varchar(255) not null,
    taskStarDate datetime null,
    taskDueDate datetime null,

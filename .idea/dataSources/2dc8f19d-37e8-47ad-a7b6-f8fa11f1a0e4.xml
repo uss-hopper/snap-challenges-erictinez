@@ -916,254 +916,297 @@
     <table id="232" parent="2" name="patron">
       <Collation>latin1_swedish_ci</Collation>
     </table>
-    <table id="233" parent="2" name="user"/>
-    <column id="234" parent="226" name="taskId">
+    <table id="233" parent="2" name="task"/>
+    <table id="234" parent="2" name="user"/>
+    <column id="235" parent="226" name="taskId">
       <Position>1</Position>
       <DataType>binary(20)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="235" parent="226" name="taskTitle">
+    <column id="236" parent="226" name="taskTitle">
       <Position>2</Position>
       <DataType>varchar(255)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="236" parent="226" name="taskStarDate">
+    <column id="237" parent="226" name="taskStarDate">
       <Position>3</Position>
       <DataType>datetime|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="237" parent="226" name="taskDueDate">
+    <column id="238" parent="226" name="taskDueDate">
       <Position>4</Position>
       <DataType>datetime|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="238" parent="226" name="taskStatus">
+    <column id="239" parent="226" name="taskStatus">
       <Position>5</Position>
       <DataType>varchar(64)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="239" parent="226" name="taskPriority">
+    <column id="240" parent="226" name="taskPriority">
       <Position>6</Position>
       <DataType>varchar(64)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="240" parent="226" name="taskDescription">
+    <column id="241" parent="226" name="taskDescription">
       <Position>7</Position>
       <DataType>varchar(256)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <key id="241" parent="226" name="PRIMARY">
+    <key id="242" parent="226" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
-      <ColNames>taskId</ColNames>
+      <ColNames>taskId
+taskId
+taskId
+taskId</ColNames>
       <Primary>1</Primary>
     </key>
-    <column id="242" parent="227" name="billId">
+    <column id="243" parent="227" name="billId">
       <Position>1</Position>
       <DataType>binary(16)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="243" parent="227" name="billPatronId">
+    <column id="244" parent="227" name="billPatronId">
       <Position>2</Position>
       <DataType>binary(16)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="244" parent="227" name="billStatus">
+    <column id="245" parent="227" name="billStatus">
       <Position>3</Position>
       <DataType>varchar(64)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <index id="245" parent="227" name="billPatronId">
+    <index id="246" parent="227" name="billPatronId">
       <ColNames>billPatronId</ColNames>
       <Type>btree</Type>
     </index>
-    <key id="246" parent="227" name="PRIMARY">
+    <key id="247" parent="227" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>billId</ColNames>
       <Primary>1</Primary>
     </key>
-    <foreign-key id="247" parent="227" name="bill_ibfk_1">
+    <foreign-key id="248" parent="227" name="bill_ibfk_1">
       <ColNames>billPatronId</ColNames>
       <RefSchemaName>emartinez451</RefSchemaName>
       <RefTableName>customer</RefTableName>
       <RefColNames>customerId</RefColNames>
     </foreign-key>
-    <column id="248" parent="228" name="cartId">
+    <column id="249" parent="228" name="cartId">
       <Position>1</Position>
       <DataType>binary(16)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="249" parent="228" name="cartUserId">
+    <column id="250" parent="228" name="cartUserId">
       <Position>2</Position>
       <DataType>binary(16)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="250" parent="228" name="cartPhone">
+    <column id="251" parent="228" name="cartPhone">
       <Position>3</Position>
       <DataType>varchar(16)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <index id="251" parent="228" name="cartUserId">
+    <index id="252" parent="228" name="cartUserId">
       <ColNames>cartUserId</ColNames>
       <Type>btree</Type>
     </index>
-    <key id="252" parent="228" name="PRIMARY">
+    <key id="253" parent="228" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>cartId</ColNames>
       <Primary>1</Primary>
     </key>
-    <foreign-key id="253" parent="228" name="cart_ibfk_1">
+    <foreign-key id="254" parent="228" name="cart_ibfk_1">
       <ColNames>cartUserId</ColNames>
       <RefSchemaName>emartinez451</RefSchemaName>
       <RefTableName>user</RefTableName>
       <RefColNames>userId</RefColNames>
     </foreign-key>
-    <column id="254" parent="229" name="cartItemCartId">
+    <column id="255" parent="229" name="cartItemCartId">
       <Position>1</Position>
       <DataType>binary(16)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="255" parent="229" name="cartItemItemId">
+    <column id="256" parent="229" name="cartItemItemId">
       <Position>2</Position>
       <DataType>binary(16)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="256" parent="229" name="cartItemSize">
+    <column id="257" parent="229" name="cartItemSize">
       <Position>3</Position>
       <DataType>binary(16)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <index id="257" parent="229" name="cartItemCartId">
+    <index id="258" parent="229" name="cartItemCartId">
       <ColNames>cartItemCartId</ColNames>
       <Type>btree</Type>
     </index>
-    <index id="258" parent="229" name="cartItemItemId">
+    <index id="259" parent="229" name="cartItemItemId">
       <ColNames>cartItemItemId</ColNames>
       <Type>btree</Type>
     </index>
-    <key id="259" parent="229" name="PRIMARY">
+    <key id="260" parent="229" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>cartItemCartId
 cartItemItemId</ColNames>
       <Primary>1</Primary>
     </key>
-    <foreign-key id="260" parent="229" name="cartItem_ibfk_1">
+    <foreign-key id="261" parent="229" name="cartItem_ibfk_1">
       <ColNames>cartItemCartId</ColNames>
       <RefSchemaName>emartinez451</RefSchemaName>
       <RefTableName>cart</RefTableName>
       <RefColNames>cartId</RefColNames>
     </foreign-key>
-    <foreign-key id="261" parent="229" name="cartItem_ibfk_2">
+    <foreign-key id="262" parent="229" name="cartItem_ibfk_2">
       <ColNames>cartItemItemId</ColNames>
       <RefSchemaName>emartinez451</RefSchemaName>
       <RefTableName>item</RefTableName>
       <RefColNames>itemId</RefColNames>
     </foreign-key>
-    <column id="262" parent="230" name="customerId">
+    <column id="263" parent="230" name="customerId">
       <Position>1</Position>
       <DataType>binary(16)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="263" parent="230" name="customerFullName">
+    <column id="264" parent="230" name="customerFullName">
       <Position>2</Position>
       <DataType>varchar(128)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <index id="264" parent="230" name="customerFullName">
+    <index id="265" parent="230" name="customerFullName">
       <ColNames>customerFullName</ColNames>
       <Type>btree</Type>
     </index>
-    <key id="265" parent="230" name="PRIMARY">
+    <key id="266" parent="230" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>customerId</ColNames>
       <Primary>1</Primary>
     </key>
-    <column id="266" parent="231" name="itemId">
+    <column id="267" parent="231" name="itemId">
       <Position>1</Position>
       <DataType>binary(16)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="267" parent="231" name="itemManufacturer">
+    <column id="268" parent="231" name="itemManufacturer">
       <Position>2</Position>
       <DataType>varchar(64)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="268" parent="231" name="itemMaterial">
+    <column id="269" parent="231" name="itemMaterial">
       <Position>3</Position>
       <DataType>varchar(16)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <key id="269" parent="231" name="PRIMARY">
+    <key id="270" parent="231" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>itemId</ColNames>
       <Primary>1</Primary>
     </key>
-    <column id="270" parent="232" name="patronId">
+    <column id="271" parent="232" name="patronId">
       <Position>1</Position>
       <DataType>binary(16)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="271" parent="232" name="patronFullName">
+    <column id="272" parent="232" name="patronFullName">
       <Position>2</Position>
       <DataType>varchar(128)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="272" parent="232" name="patronGender">
+    <column id="273" parent="232" name="patronGender">
       <Position>3</Position>
       <DataType>varchar(64)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <index id="273" parent="232" name="patronFullName">
+    <index id="274" parent="232" name="patronFullName">
       <ColNames>patronFullName</ColNames>
       <Type>btree</Type>
     </index>
-    <key id="274" parent="232" name="PRIMARY">
+    <key id="275" parent="232" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>patronId</ColNames>
       <Primary>1</Primary>
     </key>
-    <column id="275" parent="233" name="userId">
+    <column id="276" parent="233" name="taskId">
+      <Position>1</Position>
+      <DataType>binary(20)|0s</DataType>
+      <NotNull>1</NotNull>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="277" parent="233" name="taskTitle">
+      <Position>2</Position>
+      <DataType>varchar(255)|0s</DataType>
+      <NotNull>1</NotNull>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="278" parent="233" name="taskStarDate">
+      <Position>3</Position>
+      <DataType>datetime|0s</DataType>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="279" parent="233" name="taskDueDate">
+      <Position>4</Position>
+      <DataType>datetime|0s</DataType>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="280" parent="233" name="taskStatus">
+      <Position>5</Position>
+      <DataType>varchar(64)|0s</DataType>
+      <NotNull>1</NotNull>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="281" parent="233" name="taskPriority">
+      <Position>6</Position>
+      <DataType>varchar(64)|0s</DataType>
+      <NotNull>1</NotNull>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="282" parent="233" name="taskDescription">
+      <Position>7</Position>
+      <DataType>varchar(256)|0s</DataType>
+      <ColumnKind>normal</ColumnKind>
+    </column>
+    <column id="283" parent="234" name="userId">
       <Position>1</Position>
       <DataType>binary(16)|0s</DataType>
       <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="276" parent="233" name="userEmail">
+    <column id="284" parent="234" name="userEmail">
       <Position>2</Position>
       <DataType>varchar(64)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="277" parent="233" name="userAddress">
+    <column id="285" parent="234" name="userAddress">
       <Position>3</Position>
       <DataType>varchar(128)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="278" parent="233" name="userPhone">
+    <column id="286" parent="234" name="userPhone">
       <Position>4</Position>
       <DataType>varchar(16)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <index id="279" parent="233" name="userId">
+    <index id="287" parent="234" name="userId">
       <ColNames>userId</ColNames>
       <Type>btree</Type>
     </index>
-    <key id="280" parent="233" name="PRIMARY">
+    <key id="288" parent="234" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>userId</ColNames>
       <Primary>1</Primary>
