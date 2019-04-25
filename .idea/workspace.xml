@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc496313-3306-424b-866c-570b403b11a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/snap-25-19/class.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snap-04-18-19/algorith.js" beforeDir="false" afterPath="$PROJECT_DIR$/snap-04-18-19/algorithm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snap-25-19/class.php" beforeDir="false" afterPath="$PROJECT_DIR$/snap-25-19/class.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/snap-25-19/class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+            <state relative-caret-position="838">
+              <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -120,7 +118,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="260" />
     <option name="y" value="101" />
     <option name="width" value="1132" />
@@ -240,7 +238,7 @@
       <workItem from="1555423453063" duration="3424000" />
       <workItem from="1555442523033" duration="5102000" />
       <workItem from="1555596248447" duration="4974000" />
-      <workItem from="1556201290143" duration="2316000" />
+      <workItem from="1556201290143" duration="3809000" />
     </task>
     <task id="LOCAL-00001" summary="snap challenge 04_09">
       <created>1554820580265</created>
@@ -295,13 +293,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27002000" />
+    <option name="totallyTimeSpent" value="28495000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="101" width="1132" height="677" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35688072" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23748474" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -314,7 +312,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32991454" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.19693878" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -396,8 +394,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snap-25-19/class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        <state relative-caret-position="838">
+          <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
         </state>
       </provider>
     </entry>

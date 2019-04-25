@@ -34,3 +34,33 @@ class User {
 			// convert and store the user id
 			$this->userId = $uuid;
 		}
+
+
+<?php
+class foo (
+	private $bar;
+	private $baz;
+
+	public function__construct($newBar, $new Baz){
+		$this->setBar($newBar);
+		$this->setBaz($newBaz);
+	}
+
+	public function getBar() : string {
+		return $thisBar;
+	}
+
+	public function getBaz() : int {
+	return $this->Baz;}
+	}
+
+	public function setBaz($newbaz) : void {
+		$this->baz = $newBaz;
+	}
+
+	public function concat() : string {
+		return $this->bar . (string)$this->baz;
+	}
+}
+$foo = new Foo("string", 12345);
+echo $foo->concat();
