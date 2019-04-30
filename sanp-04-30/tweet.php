@@ -79,3 +79,14 @@ throw(new \PDOException($exception->getMessage(), 0, $exception));
 }
 return ($tweetsByTweetDate);
 }
+public function insert(\PDO $pdo) : void {
+
+// create query template
+$query = "INSERT INTO tweet(tweetId,tweetProfileId, tweetContent, tweetDate) VALUES(:tweetId, :tweetProfileId, :tweetContent, :tweetDate)";
+$statement = $pdo->prepare($query);
+
+// bind the member variables to the place holders in the template
+$formattedDate = $this->tweetDate->format("Y-m-d H:i:s.u");
+$parameters = ["tweetId" => $this->tweetId->getBytes(), "tweetProfileId" => $this->tweetProfileId->getBytes(), "tweetContent" => $this->tweetContent, "tweetDate" => $formattedDate];
+$statement->execute($parameters);
+}
