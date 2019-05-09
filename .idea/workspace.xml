@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc496313-3306-424b-866c-570b403b11a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/snap-02-19/flext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snap-05-09/captains-log.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snap-02-19/css-flexbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/snap-02-19/css-flexbox.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,24 +40,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snap 04-16-19/snap.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snap 04-16-19/snap-select-demo.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="62" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/snap-25-19/class.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="690">
@@ -63,11 +48,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sanp-04-30/tweet.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
+            <state relative-caret-position="1410">
               <caret line="94" column="5" lean-forward="true" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snap-02-19/css-flexbox.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snap-02-19/flext.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/snap-05-09/captains-log.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="44" column="24" lean-forward="true" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/snap-04-09/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="6" lean-forward="true" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -102,6 +123,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -122,21 +150,26 @@
         <option value="$PROJECT_DIR$/snap-04-18-19/algorithm.js" />
         <option value="$PROJECT_DIR$/snap-25-19/class.php" />
         <option value="$PROJECT_DIR$/sanp-04-30/tweet.php" />
+        <option value="$PROJECT_DIR$/snap-02-19/css-flexbox.html" />
+        <option value="$PROJECT_DIR$/snap-02-19/flext.js" />
+        <option value="$PROJECT_DIR$/snap-05-09/captains-log.html" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="834" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="30" />
+    <option name="width" value="928" />
+    <option name="height" value="1020" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,12 +185,22 @@
             <path>
               <item name="snap-challenges-erictinez" type="b2602c69:ProjectViewProjectNode" />
               <item name="snap-challenges-erictinez" type="462c0819:PsiDirectoryNode" />
+              <item name="snap-02-19" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snap-challenges-erictinez" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snap-challenges-erictinez" type="462c0819:PsiDirectoryNode" />
               <item name="snap-04-09" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="snap-challenges-erictinez" type="b2602c69:ProjectViewProjectNode" />
               <item name="snap-challenges-erictinez" type="462c0819:PsiDirectoryNode" />
               <item name="snap-04-18-19" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snap-challenges-erictinez" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snap-challenges-erictinez" type="462c0819:PsiDirectoryNode" />
+              <item name="snap-05-09" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="snap-challenges-erictinez" type="b2602c69:ProjectViewProjectNode" />
@@ -178,11 +221,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../git" />
@@ -255,7 +298,8 @@
       <workItem from="1556286626080" duration="37000" />
       <workItem from="1556633091681" duration="2334000" />
       <workItem from="1556650966773" duration="780000" />
-      <workItem from="1556805744226" duration="252000" />
+      <workItem from="1556805744226" duration="2654000" />
+      <workItem from="1557410525244" duration="2666000" />
     </task>
     <task id="LOCAL-00001" summary="snap challenge 04_09">
       <created>1554820580265</created>
@@ -310,12 +354,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32014000" />
+    <option name="totallyTimeSpent" value="37082000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="30" width="928" height="1020" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24908425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31828442" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -328,9 +373,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.19693878" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.20544554" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="File Transfer" order="12" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="File Transfer" order="12" visible="true" weight="0.3286638" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -353,13 +398,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/snap-04-09/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -394,6 +432,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sanp-04-30/tweet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="94" column="5" lean-forward="true" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap-02-19/css-flexbox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap-04-09/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" lean-forward="true" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/snap-04-18-19/algorithm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -414,10 +473,17 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2dc8f19d-37e8-47ad-a7b6-f8fa11f1a0e4/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sanp-04-30/tweet.php">
+    <entry file="file://$PROJECT_DIR$/snap-02-19/flext.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="94" column="5" lean-forward="true" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
+        <state relative-caret-position="645">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap-05-09/captains-log.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="44" column="24" lean-forward="true" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
         </state>
       </provider>
     </entry>
