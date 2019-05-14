@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc496313-3306-424b-866c-570b403b11a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/snap-05-09/captains-log.html" beforeDir="false" afterPath="$PROJECT_DIR$/snap-05-09/captains-log.html" afterDir="false" />
-    </list>
+    <list default="true" id="fc496313-3306-424b-866c-570b403b11a8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +73,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/snap-05-09/captains-log.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
+            <state relative-caret-position="365">
               <caret line="50" column="205" lean-forward="true" selection-start-line="50" selection-start-column="205" selection-end-line="50" selection-end-column="205" />
             </state>
           </provider>
@@ -156,10 +154,11 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="30" />
-    <option name="width" value="928" />
-    <option name="height" value="1020" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1006" />
+    <option name="y" value="23" />
+    <option name="width" value="826" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -296,7 +295,7 @@
       <workItem from="1556633091681" duration="2334000" />
       <workItem from="1556650966773" duration="780000" />
       <workItem from="1556805744226" duration="2654000" />
-      <workItem from="1557410525244" duration="3115000" />
+      <workItem from="1557410525244" duration="4023000" />
     </task>
     <task id="LOCAL-00001" summary="snap challenge 04_09">
       <created>1554820580265</created>
@@ -351,13 +350,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37531000" />
+    <option name="totallyTimeSpent" value="38439000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="30" width="928" height="1020" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31828442" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15015975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -370,7 +368,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.20474137" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.18811882" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="File Transfer" order="12" weight="0.3286638" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -479,7 +477,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snap-05-09/captains-log.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
+        <state relative-caret-position="365">
           <caret line="50" column="205" lean-forward="true" selection-start-line="50" selection-start-column="205" selection-end-line="50" selection-end-column="205" />
         </state>
       </provider>
