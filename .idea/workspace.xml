@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc496313-3306-424b-866c-570b403b11a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/snap-05-14-19.js" beforeDir="false" afterPath="$PROJECT_DIR$/snap-05-14-19.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snap-05-14-19.js" beforeDir="false" afterPath="$PROJECT_DIR$/snap-05-14-19/snap.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,10 +74,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/snap-05-14-19.js">
+        <entry file="file://$PROJECT_DIR$/snap-05-14-19/snap.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <state relative-caret-position="346">
+              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -128,6 +129,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>company</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -152,6 +158,7 @@
         <option value="$PROJECT_DIR$/snap-02-19/flext.js" />
         <option value="$PROJECT_DIR$/snap-05-09/captains-log.html" />
         <option value="$PROJECT_DIR$/snap-05-14-19.js" />
+        <option value="$PROJECT_DIR$/snap-05-14-19/snap.js" />
       </list>
     </option>
   </component>
@@ -204,6 +211,11 @@
             <path>
               <item name="snap-challenges-erictinez" type="b2602c69:ProjectViewProjectNode" />
               <item name="snap-challenges-erictinez" type="462c0819:PsiDirectoryNode" />
+              <item name="snap-05-14-19" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="snap-challenges-erictinez" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snap-challenges-erictinez" type="462c0819:PsiDirectoryNode" />
               <item name="snap-25-19" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -238,6 +250,11 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/snap-05-14-19" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -250,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.snap-05-14-19.js">
+  <component name="RunManager" selected="Node.js.snap.js">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/snap-challenges-erictinez/snap04-11-19/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -260,15 +277,15 @@
     <configuration name="algorithm.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="algorithm.js" working-dir="$PROJECT_DIR$/snap-04-18-19">
       <method v="2" />
     </configuration>
-    <configuration name="snap-05-14-19.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="snap-05-14-19.js" working-dir="$PROJECT_DIR$">
+    <configuration name="snap.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/snap-04-09/snap.js" working-dir="$PROJECT_DIR$/snap-04-09">
       <method v="2" />
     </configuration>
-    <configuration name="snap.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/snap-04-09/snap.js" working-dir="$PROJECT_DIR$/snap-04-09">
+    <configuration name="snap.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/snap-05-14-19/snap.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.snap-05-14-19.js" />
+        <item itemvalue="Node.js.snap.js" />
         <item itemvalue="Node.js.algorithm.js" />
         <item itemvalue="Node.js.snap.js" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
@@ -303,7 +320,7 @@
       <workItem from="1556650966773" duration="780000" />
       <workItem from="1556805744226" duration="2654000" />
       <workItem from="1557410525244" duration="4023000" />
-      <workItem from="1557842780882" duration="2007000" />
+      <workItem from="1557842780882" duration="3310000" />
     </task>
     <task id="LOCAL-00001" summary="snap challenge 04_09">
       <created>1554820580265</created>
@@ -358,7 +375,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40446000" />
+    <option name="totallyTimeSpent" value="41749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
@@ -491,10 +508,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/snap-05-14-19.js">
+    <entry file="file://$PROJECT_DIR$/snap-05-14-19/snap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state relative-caret-position="346">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
         </state>
       </provider>
     </entry>
