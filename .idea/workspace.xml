@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc496313-3306-424b-866c-570b403b11a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/snap 05-16/snap.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snap-05-14-19.js" beforeDir="false" afterPath="$PROJECT_DIR$/snap-05-14-19/snap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snap-05-14-19/snap.js" beforeDir="false" afterPath="$PROJECT_DIR$/snap-05-14-19/snap.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,15 +39,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sanp-04-30/tweet.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1410">
-              <caret line="94" column="5" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/snap-02-19/css-flexbox.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -74,10 +66,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/snap-05-14-19/snap.js">
+        <entry file="file://$PROJECT_DIR$/snap 05-16/snap.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+            <state relative-caret-position="479">
+              <caret line="230" column="15" lean-forward="true" selection-start-line="230" selection-start-column="15" selection-end-line="230" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -159,15 +151,16 @@
         <option value="$PROJECT_DIR$/snap-05-09/captains-log.html" />
         <option value="$PROJECT_DIR$/snap-05-14-19.js" />
         <option value="$PROJECT_DIR$/snap-05-14-19/snap.js" />
+        <option value="$PROJECT_DIR$/snap 05-16/snap.js" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1680" />
+    <option name="width" value="942" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectView">
@@ -228,6 +221,11 @@
               <item name="snap-challenges-erictinez" type="462c0819:PsiDirectoryNode" />
               <item name="snap 04-16-19" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="snap-challenges-erictinez" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snap-challenges-erictinez" type="462c0819:PsiDirectoryNode" />
+              <item name="snap 05-16" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -267,14 +265,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.snap.js">
+  <component name="RunManager" selected="Node.js.snap.js (1)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/snap-challenges-erictinez/snap04-11-19/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/snap-challenges-erictinez/snap_04_09/index.html" useBuiltInWebServerPort="true">
+    <configuration name="algorithm.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="algorithm.js" working-dir="$PROJECT_DIR$/snap-04-18-19">
       <method v="2" />
     </configuration>
-    <configuration name="algorithm.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="algorithm.js" working-dir="$PROJECT_DIR$/snap-04-18-19">
+    <configuration name="snap.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="snap.js" working-dir="$PROJECT_DIR$/snap 05-16">
+      <method v="2" />
+    </configuration>
+    <configuration name="snap.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="snap.js" working-dir="$PROJECT_DIR$/snap-05-14-19">
       <method v="2" />
     </configuration>
     <configuration name="snap.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/snap-04-09/snap.js" working-dir="$PROJECT_DIR$/snap-04-09">
@@ -285,11 +286,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.snap.js (1)" />
+        <item itemvalue="Node.js.snap.js (2)" />
         <item itemvalue="Node.js.snap.js" />
         <item itemvalue="Node.js.algorithm.js" />
         <item itemvalue="Node.js.snap.js" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +321,8 @@
       <workItem from="1556650966773" duration="780000" />
       <workItem from="1556805744226" duration="2654000" />
       <workItem from="1557410525244" duration="4023000" />
-      <workItem from="1557842780882" duration="3310000" />
+      <workItem from="1557842780882" duration="4050000" />
+      <workItem from="1558015342043" duration="3395000" />
     </task>
     <task id="LOCAL-00001" summary="snap challenge 04_09">
       <created>1554820580265</created>
@@ -375,18 +377,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41749000" />
+    <option name="totallyTimeSpent" value="45884000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15201466" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15384616" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3262032" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3262032" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -394,9 +395,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.19679144" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.19679144" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.32857144" />
+      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.32834226" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -411,6 +412,24 @@
     <MESSAGE value="snap challenge 04-11-19" />
     <MESSAGE value="snap challenge 04-09-19&#10;snap challenge 4-11-19" />
     <option name="LAST_COMMIT_MESSAGE" value="snap challenge 04-09-19&#10;snap challenge 4-11-19" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/snap-05-14-19/snap.js</url>
+          <line>10</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/snap 05-16/snap.js</url>
+          <line>5</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/snap_04_09/functions.js" />
@@ -510,8 +529,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snap-05-14-19/snap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        <state relative-caret-position="529">
+          <caret line="12" column="3577" lean-forward="true" selection-start-line="12" selection-start-column="3577" selection-end-line="12" selection-end-column="3577" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap 05-16/snap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="230" column="15" lean-forward="true" selection-start-line="230" selection-start-column="15" selection-end-line="230" selection-end-column="15" />
         </state>
       </provider>
     </entry>
