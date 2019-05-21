@@ -1,4 +1,4 @@
-const users = [
+const array1 = [
 	{
 		"id": 1,
 		"name": "Leanne Graham",
@@ -242,3 +242,12 @@ function removeCompany() {
 
 removeCompany();
 console.table(users);
+
+
+
+// let updatedArray1 = array.map(
+// 	(object) => {
+// 		object.compay = undefined;
+// 		return object;
+// 	}
+// );
