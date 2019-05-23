@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc496313-3306-424b-866c-570b403b11a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/snap-05-21/snap.js" beforeDir="false" afterPath="$PROJECT_DIR$/snap-05-21/snap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snap 05-23/snap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,28 +39,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snap-25-19/class.php">
+        <entry file="file://$PROJECT_DIR$/snap-05-21/snap.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snap 05-16/snap.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="230" column="15" selection-start-line="230" selection-start-column="15" selection-end-line="230" selection-end-column="15" />
+            <state relative-caret-position="431">
+              <caret line="240" column="1" selection-start-line="240" selection-start-column="1" selection-end-line="240" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/snap-05-21/snap.js">
+        <entry file="file://$PROJECT_DIR$/snap 05-23/snap.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="236" column="15" lean-forward="true" selection-start-line="236" selection-start-column="15" selection-end-line="236" selection-end-column="15" />
+            <state relative-caret-position="540">
+              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -76,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/snap-04-18-19/algorithm.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -160,23 +153,26 @@
         <option value="$PROJECT_DIR$/snap-05-14-19/snap.js" />
         <option value="$PROJECT_DIR$/snap 05-16/snap.js" />
         <option value="$PROJECT_DIR$/snap-05-21/snap.js" />
+        <option value="$PROJECT_DIR$/snap 05-23.js" />
+        <option value="$PROJECT_DIR$/snap.js" />
+        <option value="$PROJECT_DIR$/snap 05-23/snap.js" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1680" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="143" />
+    <option name="y" value="23" />
+    <option name="width" value="842" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,10 +235,16 @@
               <item name="snap-challenges-erictinez" type="462c0819:PsiDirectoryNode" />
               <item name="snap 05-16" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="snap-challenges-erictinez" type="b2602c69:ProjectViewProjectNode" />
+              <item name="snap-challenges-erictinez" type="462c0819:PsiDirectoryNode" />
+              <item name="snap 05-23" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,6 +266,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/snap 05-23" />
       <recent name="$PROJECT_DIR$/snap-05-14-19" />
     </key>
   </component>
@@ -279,10 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.snap.js (3)">
-    <configuration name="algorithm.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="algorithm.js" working-dir="$PROJECT_DIR$/snap-04-18-19">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.snap.js (4)">
     <configuration name="snap.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="snap.js" working-dir="$PROJECT_DIR$/snap 05-16">
       <method v="2" />
     </configuration>
@@ -290,6 +290,9 @@
       <method v="2" />
     </configuration>
     <configuration name="snap.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="snap.js" working-dir="$PROJECT_DIR$/snap-05-21">
+      <method v="2" />
+    </configuration>
+    <configuration name="snap.js (4)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="snap.js" working-dir="$PROJECT_DIR$/snap 05-23">
       <method v="2" />
     </configuration>
     <configuration name="snap.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/snap-04-09/snap.js" working-dir="$PROJECT_DIR$/snap-04-09">
@@ -300,11 +303,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.snap.js (4)" />
         <item itemvalue="Node.js.snap.js (3)" />
         <item itemvalue="Node.js.snap.js (1)" />
         <item itemvalue="Node.js.snap.js (2)" />
         <item itemvalue="Node.js.snap.js" />
-        <item itemvalue="Node.js.algorithm.js" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +341,8 @@
       <workItem from="1557842780882" duration="4050000" />
       <workItem from="1558015342043" duration="3529000" />
       <workItem from="1558105051550" duration="1973000" />
-      <workItem from="1558447443605" duration="2768000" />
+      <workItem from="1558447443605" duration="3433000" />
+      <workItem from="1558620206847" duration="2604000" />
     </task>
     <task id="LOCAL-00001" summary="snap challenge 04_09">
       <created>1554820580265</created>
@@ -393,18 +397,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50759000" />
+    <option name="totallyTimeSpent" value="54028000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="143" y="23" width="842" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13791268" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23465346" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24491979" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -412,9 +416,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.18217821" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.18775511" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.32772276" />
+      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.327551" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -508,10 +512,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/snap 05-16/snap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3450">
+          <caret line="230" column="15" selection-start-line="230" selection-start-column="15" selection-end-line="230" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/snap-04-09/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="6" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap-04-18-19/algorithm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -542,24 +560,20 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2dc8f19d-37e8-47ad-a7b6-f8fa11f1a0e4/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/snap-04-18-19/algorithm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/snap 05-16/snap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="230" column="15" selection-start-line="230" selection-start-column="15" selection-end-line="230" selection-end-column="15" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/snap 05-23.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/snap-05-21/snap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="236" column="15" lean-forward="true" selection-start-line="236" selection-start-column="15" selection-end-line="236" selection-end-column="15" />
+        <state relative-caret-position="431">
+          <caret line="240" column="1" selection-start-line="240" selection-start-column="1" selection-end-line="240" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snap 05-23/snap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
