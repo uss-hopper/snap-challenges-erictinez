@@ -1,0 +1,8 @@
+.my-script;
+
+div {
+	width: 250px;
+	height: 110px;
+	margin-top: 10px;
+	padding: 20px;
+}
